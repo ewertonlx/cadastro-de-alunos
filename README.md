@@ -1,8 +1,21 @@
 ## Cadastro de estudantes com Python! 🐍
+```shell
+    Olá estudantes python!
+```
 
-Este foi um pequeno projeto feito em python de gerenciamento de estudantes que foi pedido pelo meu professor da faculdade.
-Pode estar confuso de entender pois estou aprendendo mais sobre sistemas! Com o tempo vou aprimorando minhas habilidades em desenvolver sistemas simples ou complexos.
-Comentei em algumas partes do script para que vocês possam entender o que cada parte faz!
-Espero que gostem 👨‍💻
+## Introdução 📖
+Esse básico sistema de cadastramento de alunos pelo terminal foi desenvolvido por mim para como uma atividade proposta pelo meu professor de programação.
+É com alegria que compartilho essa minha experiência com vocês.
+
+## Como funciona?
+> Opções disponíveis com a verificação de cada escolha!
+
+<img width="800px" src="image2.png">
+
+> Registrar novo aluno!
+
+<img width="800px" heigth="500px" src="image.png">
+
+Essas são algumas características do sistema. O código está todo comentado e fácil de entender!
 
 **By: ewertonlx**
